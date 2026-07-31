@@ -34,7 +34,7 @@
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^26.1.1",
     "@types/prop-types": "^15.7.15",
-    "@types/react": "^19.0.10",
+    "@types/react": "^19.2.18",
     "@types/react-dom": "^19.0.4",
     "@types/react-sidebar": "^3.0.2",
     "@vite-pwa/assets-generator": "^1.0.2",
